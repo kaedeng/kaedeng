@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Kaelem 👋</h1>
 
-I'm currently a student studying Computer Science at Colorado School of Mines! I am currently interning @Lockheed Martin as a Software Engineer this summer. Thanks for visiting my profile, and I'd be happy to <a href="https://linkedin.com/in/kaelem-deng" target="blank">connect</a>!
+I'm currently a student studying Computer Science at Colorado School of Mines! I am a previous intern @Lockheed Martin as a Software Engineer. Thanks for visiting my profile, and I'd be happy to <a href="https://linkedin.com/in/kaelem-deng" target="blank">connect</a>!
 
 - 🚀 I'm currently working on a AI/ML Fullstack project leveraging Next, Django, and PyTorch!
 - 📫 You can reach me at: **dengkaelem@gmail.com**
