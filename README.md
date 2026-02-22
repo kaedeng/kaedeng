@@ -2,4 +2,4 @@
 
 I'm currently a student studying Computer Science at Colorado School of Mines. Thanks for visiting my profile.
 
-You can reach me at: **[contact@kaelem.dev](mailto:contact@kaelem.dev)**
+You can reach me at: **contact [at] kaelem [dot] dev**
